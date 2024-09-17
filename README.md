@@ -1,8 +1,3 @@
-Here’s a basic README file for your Tic-Tac-Toe project. You can customize it further based on any specific details or features you want to highlight.
-
-### README.md
-
-```markdown
 # Tic-Tac-Toe Game
 
 ## Description
@@ -52,10 +47,6 @@ A classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This web appli
 ## Contributing
 
 Feel free to open an issue or submit a pull request if you have suggestions for improvements or fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
