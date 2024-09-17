@@ -62,7 +62,4 @@ Feel free to open an issue or submit a pull request if you have suggestions for 
 4. **Getting Started**: Instructions for cloning and running the project.
 5. **Usage**: How to use the game.
 6. **Contributing**: Information on how others can contribute to the project.
-7. **License**: Licensing information.
-8. **Acknowledgements**: Credits and thanks.
-
-Feel free to adjust the sections to better fit your project or add any additional information that might be helpful.
+7. **Acknowledgements**: Credits and thanks.
